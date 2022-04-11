@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a new website/application idea. 
+- 🔭 I’m currently working on learning projects. 
 
 - 🌱 I’m currently learning python and BASH scripting
 
