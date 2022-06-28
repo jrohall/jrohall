@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning projects. 
+- 🔭 I’m currently working on python projects. 
 
-- 🌱 I’m currently learning python and BASH scripting
+- 🌱 I’m currently learning Python and Java.
 
 - 📫 How to reach me: jeremiahrohall@gmail.com
 
@@ -10,4 +10,4 @@
 
 - 📖 Currently Reading: Deep Work by Cal Newport
 
-- 🏫 First year student
+- 🏫 Second year student
