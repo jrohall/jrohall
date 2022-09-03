@@ -8,6 +8,6 @@
 
 - 🎹 Fun Fact: I play piano
 
-- 📖 Currently Reading: Deep Work by Cal Newport
+- 📖 Currently Reading: We by Yevgeny Zamyatin
 
 - 🏫 Second year student
