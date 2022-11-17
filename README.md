@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on python projects. 
+- 🔭 I’m currently working on a Mental Health Screening Application. 
 
-- 🌱 I’m currently learning Python and Java.
+- 🌱 I’m currently learning Swift.
 
 - 📫 How to reach me: jeremiahrohall@gmail.com
 
 - 🎹 Fun Fact: I play piano
 
-- 📖 Currently Reading: We by Yevgeny Zamyatin
+- 📖 Currently Reading: The Evolution Controversy
 
 - 🏫 Second year student
