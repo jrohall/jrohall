@@ -8,6 +8,6 @@
 
 - 🎹 Fun Fact: I play piano
 
-- 📖 Currently Reading: The Evolution Controversy
+- 📖 Currently Reading: Pride and Prejudice
 
 - 🏫 Second year student
