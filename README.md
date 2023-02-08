@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Mental Health Screening Application. 
+- 🔭 I’m currently working on a Pebble Watch Face and Application Development using C. 
 
-- 🌱 I’m currently learning Swift.
+- 🌱 I’m currently learning C/C++.
 
 - 📫 How to reach me: jeremiahrohall@gmail.com
 
 - 🎹 Fun Fact: I play piano
 
-- 📖 Currently Reading: Pride and Prejudice
+- 📖 Currently Reading: Meditations, by Marcus Aurelius
 
 - 🏫 Second year student
