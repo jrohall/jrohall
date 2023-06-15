@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeremiah</h1>
 <h3 align="center">A software engineering student</h3>
 
-- 🔭 I’m currently working on a Pebble Watch Face and Application Development using C. 
+- 🔭 I’m currently working on a Multi-threaded Web Server. 
 
-- 🌱 I’m currently learning C/C++.
+- 🌱 I’m currently learning Rust, Javascript, and Webapp Development.
 
 - 📫 How to reach me: jeremiahrohall@gmail.com
 
@@ -11,4 +11,4 @@
 
 - 📖 Currently Reading: Meditations, by Marcus Aurelius
 
-- 🏫 Second year student
+- 🏫 Third year student
